@@ -23,7 +23,7 @@ Corben Roszak <em>he/him</em>
 
 [![Email][email-shield]][email-url]
 
-Email non-hyperlinked: >!Corben@Roszakc.me
+Email non-hyperlinked: >! Corben@Roszakc.me
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
