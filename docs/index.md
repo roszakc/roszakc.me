@@ -23,6 +23,8 @@ Corben Roszak <em>he/him</em>
 
 [![Email][email-shield]][email-url]
 
+Email non-hyperlinked: >!Corben@Roszakc.me
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Check out my [resume](./resume.md)
