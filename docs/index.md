@@ -29,9 +29,10 @@ Corben Roszak <em>he/him</em>
 
 		Corben@Roszakc.me
 </details>
-<br>
 
-Check out my [resume](./resume.md)!
+#### Check out my [resume](./resume.md)!
+
+#### Explore the [projects I've worked on](./projectHub.md)
 
 
 
