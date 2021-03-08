@@ -5,7 +5,6 @@ filename: index.md
 
 <h2 align="center"> My name is Corben and I am a software designer </h2>
 
-
 #### 🔭 I’m currently working on:
 - Finding a full time job
 - Making a website 
@@ -30,7 +29,7 @@ Corben Roszak <em>he/him</em>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Check out my [resume] (resume.md)
+Check out my [resume](./resume.md)
 
 
 
