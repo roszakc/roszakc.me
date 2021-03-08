@@ -23,8 +23,12 @@ Corben Roszak <em>he/him</em>
 
 [![Email][email-shield]][email-url]
 
-Email plain text: 
->! Corben@Roszakc.me
+<details>
+	<summary>Email plain text</summary>
+	Corben@Roszakc.me
+</details>
+
+
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
