@@ -3,6 +3,17 @@
 
 
 body {
-	background-color: black;
-	color: white;
-}
+	color: #222;
+	background: #fff;
+  }
+  body.dark-theme {
+	color: #eee;
+	background: #121212;
+  }
+  
+  a {
+	color: #0033cc;
+  }
+  body.dark-theme a {
+	color: #809fff;
+  }
