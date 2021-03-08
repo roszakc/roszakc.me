@@ -21,6 +21,8 @@
 ### 📫 How to reach me:
 Corben Roszak <em>he/him</em>
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 [![Email][email-shield]][email-url]
 <details>
 	<summary>Email plain text</summary>
@@ -29,9 +31,7 @@ Corben Roszak <em>he/him</em>
 </details>
 <br>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-Check out my [resume](./resume.md)
+Check out my [resume](./resume.md)!
 
 
 
