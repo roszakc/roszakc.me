@@ -1,8 +1,6 @@
-<h1> Project List </h1>
+<h1> Here is a selection of projects I've worked on </h1>
 
 [Take me Home](./index.md)
-
-## Here is a selection of projects I've worked on
 
 ### Study Buddy
 
@@ -17,13 +15,13 @@ SURLY (Single User Relational) database was a pair programming project created i
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/DatabaseSURLYProject)!
 
 
-### Sample Java-JDBC Transcript System  
+### Sample Transcript System  
 
 This was a small assignment where we were tasked to use Java Database Connectivity API (JDBC) to interface a mySQL database. The program was designed as a command line interface application and implmeneted good modularity and design. 
 
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/database_programming)!
 
-### System Utilites `ls` and `find`
+### System Utilites: `ls` and `find`
 
 This task was to create and deploy the system utilites ls and find on a virtual machine that did not have them. Both were written in C with tests to prove functionality. Good documentation and long term functionality were a priority.
 
@@ -35,7 +33,7 @@ The firewall was deployed to a cluster of netBSD machines where one played the r
 
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/wfw)!
 
-<!--->
+<!---
 ### Micro Kernel
 
 
@@ -43,3 +41,5 @@ See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/
 ### Multithreaded Jacobi Method 
 
 ### Advent of Code 2020
+
+--->
