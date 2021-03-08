@@ -1,3 +1,8 @@
+---
+title: bio
+filename: bio.md
+---
+
 <h2 align="center"> My name is Corben and I am a software designer </h2>
 
 
