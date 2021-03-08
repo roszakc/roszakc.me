@@ -1,12 +1,48 @@
-## Welcome to GitHub Pages
+---
+title: bio
+filename: index.md
+---
 
-{% for page in site.pages %}
-    [page.title] (page.filename)
-{% endfor %}
+<h2 align="center"> My name is Corben and I am a software designer </h2>
 
-You can use the [editor on GitHub](https://github.com/roszakc/roszakc.me/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 🔭 I’m currently working on:
+- Finding a full time job
+- Making a website 
+- Researching software design
+- Creating an inclusive WWU CS Discord server
+
+#### 🌱 I’m currently learning:
+- Docker 
+- Computer Hardware
+- How to skateboard downhill
+- HTML (obviously needed)
+
+#### 💬 Ask me about:
+- Object Oriented Design
+- Math
+- Industry versus acaedemic Code
+
+### 📫 How to reach me:
+Corben Roszak <em>he/him</em>
+
+[![Email][email-shield]][email-url]
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+Check out my [resume] (resume.md)
+
+
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/corben-roszak
+[email-shield]: https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Mail.Ru
+[email-url]: mailto:corbenroszak@gmail.com
+
+
+
+<!---
 
 ### Markdown
 
@@ -30,12 +66,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roszakc/roszakc.me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--->
