@@ -1,4 +1,5 @@
-<h1 align="center"> My name is Corben and I am a software designer </h1>
+<h1 align="center"> My name is Corben </h1>
+<h2 align="center"> I solve problems by writing code <h2>
 
 #### 🔭 I’m currently working on:
 - Finding a full time job
