@@ -1,9 +1,4 @@
----
-title: bio
-filename: index.md
----
-
-<h2 align="center"> My name is Corben and I am a software designer </h2>
+<h1 align="center"> My name is Corben and I am a software designer </h1>
 
 #### 🔭 I’m currently working on:
 - Finding a full time job

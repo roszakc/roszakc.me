@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Corben Roszak's Website
-logo: headShotCircle.png
+logo: ./img/headShotCircle.png
 show_downloads: false
