@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
-    <link rel="stylesheet" type='text/css' href="{{ "/assets/css/style.scss?v=" | append: site.github.build_revision | relative_url }}">
+	<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
   </head>
   <body>
@@ -31,6 +31,7 @@
       </section>
       <footer>
 
+		Toggle?
 		<a href="{{page.url}}" id="theme-toggle" onclick="modeSwitcher()" style="cursor: pointer;"></a>
 
         {% if site.github.is_project_page %}
