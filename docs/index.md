@@ -30,14 +30,16 @@ Check out my [resume](./resume.md)
 
 
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn
 [linkedin-url]: https://linkedin.com/in/corben-roszak
-[email-shield]: https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Mail.Ru
+[email-shield]: https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Mail.Ru
 [email-url]: mailto:corbenroszak@gmail.com
 
 
 
 <!---
+
+Don't mind these....
 
 ### Markdown
 
