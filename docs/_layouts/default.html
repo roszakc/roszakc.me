@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>>{{ "Corben Roszak" }}</h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ ">Corben Roszak" }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="headShot" />
@@ -46,6 +46,7 @@
 
       </section>
       <footer>
+		<button class="btn-toggle">Toggle Dark-Mode</button>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
