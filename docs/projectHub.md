@@ -33,13 +33,3 @@ The firewall was deployed to a cluster of netBSD machines where one played the r
 
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/wfw)!
 
-<!---
-### Micro Kernel
-
-
-
-### Multithreaded Jacobi Method 
-
-### Advent of Code 2020
-
---->
