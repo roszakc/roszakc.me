@@ -2,13 +2,15 @@
 layout: default
 ---
 
-<h1> Projects I've worked on </h1>
+<h1> Projects I've worked on: </h1>
 
 ### Study Buddy
 
 This project was a social good class project that is open source on GitHub. I gathered a team of three other memembers to create this app which helps students track hours studied and add events easily to their calenders. I lead the team as well as worked with the team to solve blockers.
 
 See the project on [GitHub](https://github.com/roszakc/StudyBuddy)!
+
+* * *
 
 ### SURLY Database
 
@@ -23,11 +25,15 @@ This was a small assignment where we were tasked to use Java Database Connectivi
 
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/database_programming)!
 
+* * *
+
 ### System Utilites: `ls` and `find`
 
 This task was to create and deploy the system utilites ls and find on a virtual machine that did not have them. Both were written in C with tests to prove functionality. Good documentation and long term functionality were a priority.
 
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/CompSystemsII_SystemUtilites)!
+
+* * *
 
 ### IPv6 Firewall
 
@@ -35,6 +41,7 @@ The firewall was deployed to a cluster of netBSD machines where one played the r
 
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/wfw)!
 
+* * *
 
 ### Micro Kernel
 
