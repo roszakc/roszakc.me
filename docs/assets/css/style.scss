@@ -56,28 +56,26 @@ h3, h4, h5, h6 {
   color:var(--main-text-color);
 }
 
-#sideNavButtons a{
-  position: absolute;
-  right -80px;
-  transition: 0.2s;
-  padding: 15px;
-  width: 100px;
+.topNavBar{
+  background-color: var(--main-background-color);
+  overflow: hidden;
+}
+
+.topNavBar a{
+  float: left;
+  color: var(--main-text-color);
+  text-align: center;
+  padding: 14px 16px;
   text-decoration: none;
-  font-size: 25px;
-  color: white;
-  border-radius: 0 5px 5px 0;
+  font-size: 17px;
 }
 
-#sideNavButtons a:hover{
-  right: 0;
-}
-
-#Resume {
-  top: 40px;
+.topNavBar a:hover{
   background-color: lightblue;
+  color: black;
 }
 
-#Projects {
-  top: 100px;
+.topNavBar a.active{
   background-color: lightblue;
+  color: black;
 }
