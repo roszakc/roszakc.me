@@ -7,6 +7,7 @@ html[data-theme="dark"] {
   --link-color: rgb( 100, 210, 255);
   --main-background-color: hsl(0, 0%, 20%);
   --main-text-color: hsl(0, 0%, 85%); 
+  --code-text-color: hsl(0, 0%, 85%); 
 }
 
 html[data-theme="light"] {
@@ -20,6 +21,7 @@ html[data-theme="light"] {
       --link-color: rgb( 100, 210, 255);
     	--main-background-color: hsl(0, 0%, 20%);
     	--main-text-color: hsl(0, 0%, 85%); 
+      --code-text-color: hsl(0, 0%, 85%); 
     }
 
     html[data-theme="light"] {
