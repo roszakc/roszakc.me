@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <h1> Here is a selection of projects I've worked on </h1>
 
 ### Study Buddy
