@@ -36,7 +36,7 @@ See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/
 
 ### Micro Kernel
 
-The micro kernel I completed was based on Harry Porter's [BLITZ system](http://web.cecs.pdx.edu/~harry/Blitz/). It was adapted by my professor, Phil Nelson, for our operating systems class. I personally implemented the system calls necessary to run a simple bash shell which can execute scripts, create and delete files, and fork new processes. Additonally, I helped my peers with understanding virtual and physical memory and how to translate between the two properly. 
+The micro kernel I completed was based on Harry Porter's [BLITZ system](http://web.cecs.pdx.edu/~harry/Blitz/). It was modified by my professor, Phil Nelson, for our use in our operating systems class ([WWU BLITZ page](https://facultyweb.cs.wwu.edu/~phil/classes/blitz/)). I personally implemented the system calls necessary to run a simple bash shell which can execute scripts, create and delete files, and fork new processes. Additonally, I helped my peers with understanding virtual and physical memory and how to translate between the two properly. 
 
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/microKernel)!
 
