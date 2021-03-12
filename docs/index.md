@@ -31,12 +31,6 @@ Corben Roszak <em>he/him</em>
 		Corben@Roszakc.me
 </details>
 
-#### Check out my [resume](./resume.md)!
-
-#### Explore the [projects I've worked on](./projectHub.md)
-
-
-
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn
 [linkedin-url]: https://linkedin.com/in/corben-roszak
