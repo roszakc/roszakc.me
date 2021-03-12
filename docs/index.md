@@ -1,6 +1,9 @@
+---
+layout: default
+---
+
 <h1 align="center"> My name is Corben </h1>
 <h2 align="center"> I solve problems by writing code </h2>
-
 
 
 #### 🔭 I’m currently working on:
@@ -31,12 +34,6 @@ Corben Roszak <em>he/him</em>
 
 		Corben@Roszakc.me
 </details>
-
-#### Check out my [resume](./resume.md)!
-
-#### Explore the [projects I've worked on](./projectHub.md)
-
-
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn

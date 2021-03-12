@@ -1,7 +1,8 @@
+---
+layout: default
+---
+
 <h1> Resume</h1>
-
-[Take me Home](./index.md)
-
 <br>
 
 ![Last Updated][updated-shield]

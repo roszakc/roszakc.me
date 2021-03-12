@@ -12,11 +12,17 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ ">Corben Roszak" }}</a></h1>
+      
+        <img src="{{site.logo | relative_url}}" alt="Corben's Head Shot (very cute)" />
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="headShot" />
-        {% endif %}
+        <h1>Corben Roszak</h1>
+
+        <div class="topNavBar">
+          <a href="{{ "/" | absolute_url }}">Home</a>
+          <a href="resume">Resume</a>
+          <a href="projectHub">Projects</a>
+        
+        </div>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -43,7 +49,7 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 
-	<script src="/assets/js/mode-switcher.js"></script>
+	  <script src="/assets/js/mode-switcher.js"></script>
 
   </body>
 </html>

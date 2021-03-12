@@ -55,3 +55,27 @@ h2 {
 h3, h4, h5, h6 {
   color:var(--main-text-color);
 }
+
+.topNavBar{
+  background-color: var(--main-background-color);
+  overflow: hidden;
+}
+
+.topNavBar a{
+  float: left;
+  color: var(--main-text-color);
+  text-align: center;
+  padding: 14px 14px;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.topNavBar a:hover{
+  background-color: lightblue;
+  color: black;
+}
+
+.topNavBar a.active{
+  background-color: lightblue;
+  color: black;
+}
