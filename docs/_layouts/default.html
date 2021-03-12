@@ -12,16 +12,16 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ ">Corben Roszak" }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}">{{ "Corben Roszak" }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="headShot" />
         {% endif %}
 
         <div class="topNavBar">
-          <button class="topNavBar active"><a href="/docs/index.md">Home</a></button>
-          <button class="topNavBar"><a href="/docs/resume.md">Resume</a></button>
-          <button class="topNavBar"><a href="/docs/projectHub.md">Projects</a></button>
+          <a href="{{ "/" | absolute_url }}">Home</a>
+          <a href="{{ "resume.md" | absolute_url }}">Resume</a>
+          <a href="{{ "projectHub.md" | absolute_url }}">Projects</a>
         
         </div>
 
