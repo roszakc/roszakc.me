@@ -1,6 +1,13 @@
 <h1 align="center"> My name is Corben </h1>
 <h2 align="center"> I solve problems by writing code </h2>
 
+
+<ul class="downloads">
+	<li><a href="./resume.md"> Resume </a></li>
+	<li><a href="./projectHub.md"> Projects </a></li>
+</ul>
+
+
 #### 🔭 I’m currently working on:
 - Finding a full time job
 - Making a website 

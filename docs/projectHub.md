@@ -40,14 +40,13 @@ The micro kernel I completed was based on Harry Porter's [BLITZ system](http://w
 
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/microKernel)!
 
-<!---
 
+
+<!---
 
 To add: 
 
 Advent of code
 Deadwood
-micro kernel
-
 
 --->
