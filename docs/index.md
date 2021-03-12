@@ -3,8 +3,9 @@
 
 
 <ul class="downloads">
-	<li><a href="./resume.md"> Resume </a></li>
-	<li><a href="./projectHub.md"> Projects </a></li>
+	<a href="./resume.md"> <Strong>Resume</Strong> </a>
+	<a href="./projectHub.md"> <Strong>Projects</Strong> </a>
+	
 </ul>
 
 
