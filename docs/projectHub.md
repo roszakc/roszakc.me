@@ -1,7 +1,5 @@
 <h1> Here is a selection of projects I've worked on </h1>
 
-[Take me Home](./index.md)
-
 ### Study Buddy
 
 This project was a social good class project that is open source on GitHub. I gathered a team of three other memembers to create this app which helps students track hours studied and add events easily to their calenders. I lead the team as well as worked with the team to solve blockers.
