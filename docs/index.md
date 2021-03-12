@@ -2,11 +2,6 @@
 <h2 align="center"> I solve problems by writing code </h2>
 
 
-<ul class="downloads">
-	<li>[Resume](./resume.md)</li>
-	<li>[Projects](./projectHub.md)</li>
-</ul>
-
 
 #### 🔭 I’m currently working on:
 - Finding a full time job
