@@ -12,6 +12,16 @@ See the project on [GitHub](https://github.com/roszakc/StudyBuddy)!
 
 * * *
 
+### &#8594; Advent of code 
+
+This is half of the month of [Advent of Code 2020](https://adventofcode.com/). Advent of code is a fun advent calendar where you complete small programming challenges each day. The fun twist is there is two parts to each day, you implement the first half without knowing what the second task will be. Often you have to rewrite your code and having good designs makes it easy to tweak but bad designs make it quite difficult.
+
+I wanted to do the whole month but got distracted with 2020 life.
+
+See the project on [GitHub](https://github.com/roszakc/AdventOfCode)!
+
+* * *
+
 ### &#8594; SURLY Database
 
 SURLY (Single User Relational) database was a pair programming project created in Java to the [SURLY specification sheet](./assets/pdf/SURLY-Specification.pdf). We created a heap based database that could be moduarlly expanded and supported SQL commands at its core. 
@@ -49,15 +59,7 @@ The micro kernel I completed was based on Harry Porter's [BLITZ system](http://w
 
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/microKernel)!
 
-* * *
 
-### &#8594; Advent of code 
-
-This is half of the month of [Advent of Code 2020](https://adventofcode.com/). Advent of code is a fun advent calendar where you complete small programming challenges each day. The fun twist is there is two parts to each day, you implement the first half without knowing what the second task will be. Often you have to rewrite your code, having good designs makes it easy to tweak.
-
-I wanted to do the whole month but got distracted with 2020 life.
-
-See the project on [GitHub](https://github.com/roszakc/AdventOfCode)!
 
 <!---
 
