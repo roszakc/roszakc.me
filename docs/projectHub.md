@@ -24,7 +24,7 @@ See the project on [GitHub](https://github.com/roszakc/AdventOfCode)!
 
 ### &#8594; SURLY Database
 
-SURLY (Single User Relational) database was a pair programming project created in Java to the [SURLY specification sheet](./assets/pdf/SURLY-Specification.pdf). We created a heap based database that could be moduarlly expanded and supported SQL commands at its core. 
+SURLY (Single User Relational) database was a pair programming project created in Java to the <a href="/assets/pdf/SURLY-Specification.pdf" target="_blank" rel="noopener noreferrer">SURLY specification sheet</a>. We created a heap based database that could be moduarlly expanded and supported SQL commands at its core. 
 
 See the project on [GitHub](https://github.com/roszakc/ClassProjectCodeExamples/tree/master/DatabaseSURLYProject)!
 
