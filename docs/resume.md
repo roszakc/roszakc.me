@@ -7,7 +7,7 @@ layout: default
 
 ![Last Updated][updated-shield]
 
-[Download](./assets/pdf/CorbenR_resume.md)
+[Download](./assets/pdf/CorbenR_Resume.pdf)
 
 <object data="/assets/pdf/CorbenR_Resume.pdf" type="application/pdf" width="750px" height="825px">
     <embed src="/assets/pdf/CorbenR_Resume.pdf" type="application/pdf">
