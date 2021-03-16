@@ -21,7 +21,7 @@ layout: default
 #### 💬 Ask me about:
 - Object Oriented Design
 - Math
-- Industry versus acaedemic Code
+- Industry versus academic Code
 
 ### 📫 How to reach me:
 Corben Roszak <em>he/him</em>
