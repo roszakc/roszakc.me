@@ -7,15 +7,8 @@ layout: default
 
 ![Last Updated][updated-shield]
 
+<a href="/assets/pdf/CorbenR_Resume.pdf" target="_blank" rel="noopener noreferrer">Click to view</a>
+
 <a href="/assets/pdf/CorbenR_Resume.pdf" download> Click to Download </a>
 
-<object data="/assets/pdf/CorbenR_Resume.pdf" type="application/pdf" width="750px" height="825px">
-    <embed src="/assets/pdf/CorbenR_Resume.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/CorbenR_Resume.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
 [updated-shield]: https://img.shields.io/badge/Updated-3%2F7-green
-
-
