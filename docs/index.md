@@ -8,15 +8,15 @@ layout: default
 
 #### 🔭 I’m currently working on:
 - Finding a full time job
-- Making a website 
+- Making a website
 - Researching software design
 - Creating an inclusive WWU CS Discord server
 
 #### 🌱 I’m currently learning:
-- Docker 
+- Docker
 - Computer Hardware
 - How to skateboard downhill
-- HTML (obviously needed)
+- HTML and CSS (obviously needed)
 
 #### 💬 Ask me about:
 - Object Oriented Design
@@ -24,7 +24,8 @@ layout: default
 - Industry versus academic Code
 
 ### 📫 How to reach me:
-Corben Roszak <em>he/him</em>
+Corben Roszak
+<em>he/him</em>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 

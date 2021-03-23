@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1> My resume </h1>
+<h1> Resume </h1>
 <br>
 
 ![Last Updated][updated-shield]
