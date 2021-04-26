@@ -4,21 +4,25 @@ layout: default
 
 <h1> Projects I've worked on: </h1>
 
-### &#8594; Study Buddy
-
-This project was a social good class project that is open source on GitHub. I gathered a team of three other members to create this app which helps students track hours studied and add events easily to their calendars. I lead the team as well as worked with the team to solve blockers.
-
-See the project on [GitHub](https://github.com/roszakc/StudyBuddy)!
-
-* * *
-
-### &#8594; Advent of code
+### &#8594; Advent of Code
 
 This is half of the month of [Advent of Code 2020](https://adventofcode.com/). Advent of code is a fun advent calendar where you complete small programming challenges each day. The fun twist is there is two parts to each day, you implement the first half without knowing what the second task will be. Often you have to rewrite your code and having good designs makes it easy to tweak but bad designs make it quite difficult.
 
 I wanted to do the whole month but got distracted with 2020 life.
 
 See the project on [GitHub](https://github.com/roszakc/AdventOfCode)!
+
+### &#8594; Raspberry Pi Network Attached Storage
+
+I have a Mac and a Windows computer, and sharing files between the two is a pain. I mostly resort to either flash drives or Google drive. Unfortunately, my upload speed isn't the best making Google Drive not a great option and I keep losing flash drives. So, I got a Raspberry Pi and set up open media vault as a home NAS. It works wonderfully for my uses and I want to expand it to a larger system for computer backups and make it accessible from outside my home.
+
+
+### &#8594; Study Buddy
+
+This project was a social good class project that is open source on GitHub. I gathered a team of three other members to create this app which helps students track hours studied and add events easily to their calendars. I lead the team as well as worked with the team to solve blockers.
+
+See the project on [GitHub](https://github.com/roszakc/StudyBuddy)!
+
 
 * * *
 
