@@ -13,7 +13,7 @@ layout: default
 - Researching long term support in CS tangibles
 
 #### 🌱 I’m currently learning:
-- Docker
+- Docker (containers in general)
 - Computer Hardware
 - NAS software
 - How to be a leader
@@ -22,7 +22,6 @@ layout: default
 #### 💬 Ask me about:
 - Object Oriented Design
 - Math education
-- education 
 - Industry versus academic Code
 
 ### 📫 How to reach me:
