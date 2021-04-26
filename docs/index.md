@@ -8,19 +8,21 @@ layout: default
 
 #### 🔭 I’m currently working on:
 - Finding a full time job
-- Making a website
+- Maintaining this website
 - Researching software design
-- Creating an inclusive WWU CS Discord server
+- Researching long term support in CS tangibles
 
 #### 🌱 I’m currently learning:
 - Docker
 - Computer Hardware
+- NAS software
+- How to be a leader
 - How to skateboard downhill
-- HTML and CSS (obviously needed)
 
 #### 💬 Ask me about:
 - Object Oriented Design
-- Math
+- Math education
+- education 
 - Industry versus academic Code
 
 ### 📫 How to reach me:
