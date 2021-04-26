@@ -12,10 +12,13 @@ I wanted to do the whole month but got distracted with 2020 life.
 
 See the project on [GitHub](https://github.com/roszakc/AdventOfCode)!
 
+* * *
+
 ### &#8594; Raspberry Pi Network Attached Storage
 
 I have a Mac and a Windows computer, and sharing files between the two is a pain. I mostly resort to either flash drives or Google drive. Unfortunately, my upload speed isn't the best making Google Drive not a great option and I keep losing flash drives. So, I got a Raspberry Pi and set up open media vault as a home NAS. It works wonderfully for my uses and I want to expand it to a larger system for computer backups and make it accessible from outside my home.
 
+* * *
 
 ### &#8594; Study Buddy
 
