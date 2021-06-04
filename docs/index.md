@@ -34,14 +34,14 @@ Corben Roszak
 <details>
 	<summary>Email plain text</summary>
 
-		Corben@Roszakc.me
+		CorbenRoszak@gmail.com
 </details>
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn
 [linkedin-url]: https://linkedin.com/in/corben-roszak
 [email-shield]: https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Mail.Ru
-[email-url]: mailto:Corben@Roszakc.me
+[email-url]: mailto:CorbenRoszak@gmail.com
 
 
 
